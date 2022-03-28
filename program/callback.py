@@ -25,26 +25,26 @@ async def cbstart(_, query: CallbackQuery):
             [
                 [
                     InlineKeyboardButton(
-                        "乂ᴀᴅᴅ ᴍᴇ ᴛᴏ ᴜʀ ɢʀᴏᴜᴘ乂",
+                        "✌️ᴀᴅᴅ ᴍᴇ ᴛᴏ ᴜʀ ɢʀᴏᴜᴘ✌️",
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     )
                 ],
-                [InlineKeyboardButton("乂ʙᴀsɪᴄ ɢᴜɪᴅᴇ乂", callback_data="cbhowtouse")],
+                [InlineKeyboardButton("✌️ʙᴀsɪᴄ ɢᴜɪᴅᴇ🙃", callback_data="cbhowtouse")],
                 [
-                    InlineKeyboardButton("乂ᴄᴏᴍᴍᴀɴᴅs乂", callback_data="cbcmds"),
-                    InlineKeyboardButton("乂ᴄʀᴇᴀᴛᴏʀ乂", url=f"https://t.me/Xmartperson"),
+                    InlineKeyboardButton("✌️ᴄᴏᴍᴍᴀɴᴅs🙃", callback_data="cbcmds"),
+                    InlineKeyboardButton("✌️ᴄʀᴇᴀᴛᴏʀ🙃", url=f"https://t.me/Nobi_xxd"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "乂ʙᴏᴛ ɢʀᴏᴜᴘ乂", url=f"https://t.me/Rockerz_support"
+                        "✌️ʙᴏᴛ ɢʀᴏᴜᴘ🙃", url=f"https://t.me/AAPLI_YAARI"
                     ),
                     InlineKeyboardButton(
-                        "乂ʙᴏᴛ ᴄʜᴀɴɴᴇʟ乂", url=f"https://t.me/Rockerz_updates"
+                        "✌️ʙᴏᴛ ᴄʜᴀɴɴᴇʟ🙃", url=f"https://t.me/AAPLI_YAARI"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "乂sɪɴɢɢɪɴɢ sᴜᴘᴘᴏʀᴛ乂", url=f"https://t.me/Singing_music_Idol"
+                        "✌️sɪɴɢɢɪɴɢ sᴜᴘᴘᴏʀᴛ🙃", url=f"https://t.me/AAPLI_YAARI"
                     )
                 ],
             ]
@@ -87,12 +87,12 @@ async def cbcmds(_, query: CallbackQuery):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("乂ᴀᴅᴍɪɴ ᴄᴍᴅ乂", callback_data="cbadmin"),
-                    InlineKeyboardButton("乂sᴜᴅᴏ ᴄᴍᴅ乂", callback_data="cbsudo"),
+                    InlineKeyboardButton("✌️ᴀᴅᴍɪɴ ᴄᴍᴅ🙃", callback_data="cbadmin"),
+                    InlineKeyboardButton("✌️sᴜᴅᴏ ᴄᴍ🙃", callback_data="cbsudo"),
                 ],[
-                    InlineKeyboardButton("乂ʙᴀsɪᴄ ᴄᴍᴅ乂", callback_data="cbbasic")
+                    InlineKeyboardButton("🙃ʙᴀsɪᴄ ᴄᴍᴅ🙃", callback_data="cbbasic")
                 ],[
-                    InlineKeyboardButton("乂🔙ɢᴏ ʙᴀᴄᴋ乂", callback_data="cbstart")
+                    InlineKeyboardButton("🙃🔙ɢᴏ ʙᴀᴄᴋ✌️", callback_data="cbstart")
                 ],
             ]
         ),
