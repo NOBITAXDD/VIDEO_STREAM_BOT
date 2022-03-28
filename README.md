@@ -1,22 +1,14 @@
-<p align="center"><a href="https://t.me/XMARTY_VC_PLAYER_BOT">
-    <img src="https://telegra.ph/file/a0adbb89423c5aa6770d4.jpg"></a></p>
+<p align="center"><a href="https://t.me/AAPLI_YAARI">
+    <img src="https://te.legra.ph/file/91b6296934a3e08fa90b4.jpg"></a></p>
 <p align="center">
     <br><b>Video Stream is a telegram bot project that's allow you to play video on telegram group video chat</b><br>
 </p>
-<p align="center">
-    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-    <a href="https://github.com/S780821/video-stream/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
-    <a href="https://app.codacy.com/gh/S780821/video-stream/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-    <a href="https://github.com/S780821/video-stream"> <img src="https://img.shields.io/github/repo-size/S780821/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/S780821/video-stream/commits/main"> <img src="https://img.shields.io/github/last-commit/S780821/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/S780821/video-stream/issues"> <img src="https://img.shields.io/github/issues/S780821/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/S780821/video-stream/network/members"> <img src="https://img.shields.io/github/forks/S780821/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/S780821/video-stream/network/members"> <img src="https://img.shields.io/github/stars/S780821/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+
 </p>
 
 ## 🧪 Get `SESSION_NAME` from below:
 
-[![GenerateString](https://replit.com/@kuldiprathod/Session-Generator#main.py)](https://replit.com/@S780821/PyrogramSession) ``Pyrogram``
+[![GenerateString](https://t.me/Decode_String_bot) ``Pyrogram``
 
 ## ✨ Features
 - Music & Video stream support
@@ -50,11 +42,11 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NOBITAXDD/NOBITA_JAAN)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NOBITAXDD/VIDEO_STREAM_BOT)
 ## Deploy On Railway
 Fill all variables 
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/S780821/video-stream&envs=ALIVE_NAME,API_HASH,API_ID,ASSISTANT_NAME,BOT_NAME,BOT_TOKEN,BOT_USERNAME,DURATION_LIMIT,GROUP_SUPPORT,OWNER_NAME,SESSION_NAME,SUDO_USERS,UPDATES_CHANNEL)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/NOBITAXDD/VIDEO_STREAM_BOT&envs=ALIVE_NAME,API_HASH,API_ID,ASSISTANT_NAME,BOT_NAME,BOT_TOKEN,BOT_USERNAME,DURATION_LIMIT,GROUP_SUPPORT,OWNER_NAME,SESSION_NAME,SUDO_USERS,UPDATES_CHANNEL)
 
 ## VPS Deployment 📡
 
@@ -65,7 +57,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/S780821/video-stream # clone the repo.
+git clone https://github.com/NOBITAXDD/VIDEO_STREAM_BOT # clone the repo.
 cd video-stream
 pip3 install -U -r requirements.txt
 cp example.env .env # use vim to edit ENVs
@@ -74,8 +66,6 @@ python3 main.py # run the bot.
 ```
 
 # Credits 💖
- [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
-- [Dan](https://github.com/delivrance) for [``Pyrogram``](https://github.com/pyrogram)
 
-### Support & Updates 🎑
-<a href="https://t.me/xmarty_support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/levinachannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+- [NOBITA](https://t.me/Nobi_xxd)
+
