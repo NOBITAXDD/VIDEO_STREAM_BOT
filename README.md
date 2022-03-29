@@ -1,5 +1,5 @@
 <p align="center"><a href="https://t.me/AAPLI_YAARI">
-    <img src="https://te.legra.ph/file/91b6296934a3e08fa90b4.jpg"></a></p>
+    <img src="https://te.legra.ph/file/088e7be378ea5a5fc2854.jpg"></a></p>
 <p align="center">
     <br><b>Video Stream is a telegram bot project that's allow you to play video on telegram group video chat</b><br>
 </p>
